@@ -14,8 +14,3 @@ Light/darkmode toggle
   
   - headings need to be associated to a platform when read on a screen reader
   - use correct heading tags
-
-font query:
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap');
-    </style>
